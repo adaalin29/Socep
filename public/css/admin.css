@@ -1,0 +1,19 @@
+#files li {
+    min-width: 33%;
+    height: 100px;
+}
+#files li .details h4 {
+    overflow: inherit;
+}
+#files li .file_link .details small{
+    display: none;
+}
+#files li .file_link {
+    height: 90%;
+}
+.app-container .content-container .side-menu:hover {
+    width: 380px;
+}
+.right_details{
+    position: fixed;
+}
